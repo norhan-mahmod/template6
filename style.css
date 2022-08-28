@@ -1,0 +1,23 @@
+h1{
+    color: #aaaaaa;
+}
+.d-form{
+    background-color: #eeeeee;
+}
+.d-form p{
+    padding: 40px 0;
+}
+.input{
+    text-align: center;
+}
+.input input{
+    margin-left: 120px;
+    padding: 2px 0;
+}
+.btn{
+    margin-left: 550px;
+    margin-bottom: 70px;
+}
+.btn2{
+    margin-left: 0;
+}
